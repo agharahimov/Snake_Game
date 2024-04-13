@@ -32,4 +32,5 @@ This project utilizes concepts of object-oriented programming in Java.
 Sound effects obtained from Freesound.
 Inspiration and guidance from various online tutorials and resources.
 Contributors
-Your Name - Hamza Nuruzade @nrzdhmz
+Hamza Nuruzade @nrzdhmz
+Aghasalim Agharahimov @agharahimov
